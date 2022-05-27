@@ -1,9 +1,7 @@
 ### Hi there 👋 I am Md. Shafiul Islam
 
--  I’m currently working on React Js And Redux Js
--  I’m currently learning React Native
+-  I’m currently working on React Js, Redux Js and TypeScript
 -  I’m looking to collaborate on Javascript
--  I’m looking for help with Typescript
 -  How to reach me: https://shafiul.netlify.app/
 
 ### About Me
